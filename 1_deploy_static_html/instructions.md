@@ -11,8 +11,15 @@ A sample HTML document can be found in this directory, titled `index.html`.
 1. To include a flowchart / archetectural diagram indicating the AWS resources used and the relationship
 1. Note down challenges, thought process & approach for this task
 
-# Out of scope:
-* Automation (Manual clicking on the console is fine)
+## Part (A)
+* No automation is required
+
+## Part (B)
+* Automate whatever you have created in (A)
+* CI/CD is out of scope 
+
+## Part (C)
+* Provision the resources via CI
 
 # Alignment:
 * Up to you to choose any resources, style, approach
