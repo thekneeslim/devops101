@@ -10,3 +10,11 @@ This repository comprises a set of tasks for folks intending to embark on their 
 
 ## Tasks:
 1. To deploy a static HTML page
+
+## Useful Commands
+1. [Reset git credentials ](https://stackoverflow.com/questions/39422521/how-can-i-change-the-user-on-git-bash)
+    ```
+    ssh-add -D
+    ssh-add ~/.ssh/<github_key>
+    ssh -T git@github.com
+    ``` 
